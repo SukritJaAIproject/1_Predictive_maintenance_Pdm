@@ -1,0 +1,2 @@
+# 1_Predictive_maintenance_Pdm
+1_Predictive_maintenance_Pdm
